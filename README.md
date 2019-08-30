@@ -1,6 +1,8 @@
 # AboutGitHub
 Article on Elegant Themes website
 
+https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies
+
 <bold> Git and Github: A Beginner’s Guide for Complete Newbies <\bold>
 Despite what television and movies tell us, life as a software developer does not include sitting in a dark room, our keyboard illuminated only by the glow of the monitor, the thought of interacting with another human being repulsive. No, life as a software developer is social and collaborative–sometimes to the point of frustration. That’s why we have git and Github.
 
